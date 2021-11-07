@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+}
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(245, 236, 236);
+    border-bottom: 1px solid green;
+    box-shadow: 1px 1px 1px;
+}
